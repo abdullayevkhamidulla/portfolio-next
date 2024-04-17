@@ -45,6 +45,16 @@ export const projectsData = [
 		image: ayla,
 		role: "Full Stack Developer",
 	},
+	{
+		id: 5,
+		name: "Eufloria online-flowers-shopping",
+		description:"My team and I made this project for the benefit of people,",
+		tools: ["React", "Tailwind CSS", "Typescript"],
+		code: "",
+		demo: "",
+		image: ayla,
+		role: "Frontend Developer",
+	},
 ];
 
 // Do not remove any property.
